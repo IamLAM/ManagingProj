@@ -1,1 +1,1 @@
-# ManagingProj
+# Backend Challenges boilerplate - package.json
